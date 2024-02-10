@@ -1,0 +1,10 @@
+/* COlOR code */
+
+#C8FFED   /------light
+#49FFC2
+#24FFB6
+#00FFAB
+#00DB92
+#008055
+#004931
+#00120C  /-------dark
